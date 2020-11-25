@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/txtPhone3"
         android:textSize="22sp"
+        android:textColor="@color/black"
         android:text="@string/Joy"/>
 
     <EditText
